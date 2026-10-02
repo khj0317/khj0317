@@ -1,17 +1,9 @@
 # 안녕하세요, 풀스택 개발자 김혁진입니다 👋
 
-**문제의 원인을 끝까지 찾아 해결하는 풀스택 개발자**입니다.
-공공기관·기업 시스템을 개발·운영하고 있고, 개인 프로젝트는 배포해서 실제로 쓸 수 있는 상태까지 만듭니다.
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=khj0317&locale=ko&hide_border=true&background=f4f6fa&ring=6f8ce8&fire=6f8ce8&currStreakNum=1f2633&sideNums=1f2633&currStreakLabel=4a5794&sideLabels=4a5794&dates=7b8494&stroke=d9deea" height="170" alt="연속 기여">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khj0317&layout=compact&hide_border=true&title_color=4a5794&text_color=1f2633&bg_color=f4f6fa" height="170" alt="자주 쓴 언어">
-</p>
-
 ### 🙋‍♂️ About Me
-- 김혁진 · 경기도 부천시
+- 김혁진
 - 대보정보통신(주) 풀스택 개발 (2023.10 ~ 재직 중)
-- 서경대학교 경영학과
+- 서경대학교 경영학과 재학 중
 - hyukjin0317@naver.com
 
 ### 📝 Portfolio - <a href="https://hyeokjin-portfolio.vercel.app">Here</a>
